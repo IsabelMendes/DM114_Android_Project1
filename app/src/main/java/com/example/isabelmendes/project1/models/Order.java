@@ -1,8 +1,9 @@
 package com.example.isabelmendes.project1.models;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class Order {
+public class Order implements Serializable {
     private long id;
     private String email;
     private double freightPrice;
