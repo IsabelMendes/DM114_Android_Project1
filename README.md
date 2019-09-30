@@ -1,1 +1,1 @@
-# DM114_Project1
+# Java application development for Android
